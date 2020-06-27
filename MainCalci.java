@@ -58,10 +58,10 @@ public class MainCalci {
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
 		
-		/*lblByjainvipray = new JLabel("By-YourNaMe");
-		lblByjainvipray.setBackground(new Color(192, 192, 192));
-		lblByjainvipray.setBounds(119, 224, 101, 216);
-		frame.getContentPane().add(lblByjainvipray);
+		/*lblByname = new JLabel("By-YourNaMe");
+		lblByname.setBackground(new Color(192, 192, 192));
+		lblByname.setBounds(119, 224, 101, 216);
+		frame.getContentPane().add(lblByname);
 		*/
 		final JButton btnNewButton = new JButton("7");
 		btnNewButton.setFont(new Font("Tahoma", Font.BOLD, 17));
